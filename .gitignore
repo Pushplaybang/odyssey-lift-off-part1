@@ -1,3 +1,6 @@
 node_modules
 .DS_Store
 .env
+.idea/vcs.xml
+.idea/odyssey-lift-off-part1.iml
+.idea/modules.xml
